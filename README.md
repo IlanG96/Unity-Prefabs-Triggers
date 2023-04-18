@@ -3,6 +3,7 @@
 The game is a simple space shooter, where the player controls a spaceship and shoots at enemies. The enemies are spawned randomly.
 I've added a few formal elements to the game, such as a ability to get "life" in the game and a 5 sec cooldown for the spaceship laser.
 
+Itch Link : https://ilang.itch.io/laserfiesta 
 
 ## Credits
 
